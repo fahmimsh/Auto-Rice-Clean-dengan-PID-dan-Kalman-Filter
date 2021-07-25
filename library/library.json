@@ -1,0 +1,18 @@
+{
+  "name": "FahmiKalmanFilter",
+  "keywords": "fahmi",
+  "description": "kalman filter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahmimsh/quadcopter-stm32f407/blob/main/Core/Src/Kalman.c"
+  },
+  "version": "0.1.0",
+  "authors": {
+    "name": "Denys Sene",
+    "url": ""
+  },
+  "exclude": [
+  ],
+  "frameworks": "stm32f407/blob/main/Core/Src/Kalman",
+  "platforms": "*"
+}
